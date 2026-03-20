@@ -1,0 +1,4 @@
+# may need to add more ignores, OK for now
+.pio/
+.pioenvs/
+.env
