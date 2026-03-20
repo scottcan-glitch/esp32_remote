@@ -1,6 +1,6 @@
 General:
 
-    C firmware for open or closed loop (PI) speed control for brushed DC motor. Compatible with quadrature encoder using esp32 16bit hardware counters which are software extended. Also has functionality for fusing IMU data (mpu9250 + Madgwick filter). JSON string based API for polling imu/encoder data, and setting the mode of the esp32 state machine.
+    C firmware for open or closed loop (PI) speed control for brushed DC motor. Compatible with quadrature encoder using esp32 16bit hardware counters which are software extended. Also has functionality for fusing IMU data (mpu9250 + Madgwick filter). Python API for polling imu/encoder data, and setting the mode of the esp32 state machine. CLI for setting PI gains and calibrating IMU.
 
 Flashing:
 
